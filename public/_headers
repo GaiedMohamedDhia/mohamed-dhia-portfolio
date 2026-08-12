@@ -1,0 +1,4 @@
+/cv/*.pdf
+  Content-Type: application/pdf
+  Content-Disposition: inline
+  X-Content-Type-Options: nosniff
